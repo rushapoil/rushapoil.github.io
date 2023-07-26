@@ -1,0 +1,15 @@
+{
+    "info": {
+    "url_png_icon_64x64": "https://rushapoil.github.io/dod.png",
+    "url_png_logo": "https://rushapoil.github.io/logo.png",
+    "location": "Bordeaux, France",
+		"social": {
+        "twitter_handle": "Club101DoD",
+        "discord_handle": "club101"
+		},
+         "about": {
+            "me": "Pickle Drake",
+            "server": "Powerful homemade setups, unlimited plan, plugged on inverters"
+        }
+	}
+}
