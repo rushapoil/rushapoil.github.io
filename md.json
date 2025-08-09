@@ -1,8 +1,8 @@
-{
-"name": "Club101",
-"description": "sharing 100% operator's reward with top 10 delegators",
-"ticker": "DOD",
-"homepage": "https://club101.io/",
-"extended": "https://rushapoil.github.io/emd.json",
-"verification": "abc4fd28c960c9f84e"
+{ 
+    "name": "MIDNIGHT DRAGONS",
+    "description": "Cardano dragons pool, ready for midnight mainnet",
+    "ticker": "DOD",
+    "homepage": "https://discord.gg/club101",
+    "extended": "https://rushapoil.github.io/emd.json",
+    "verification": "abc4fd28c960c9f84e"
 }
